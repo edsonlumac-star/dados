@@ -1,0 +1,159 @@
+cidade,produto,categoria,estoque
+São Paulo,Prestígio,tradicional,4444
+Salvador,Diamente Negro,especial,210
+Florianópolis,Diamente Negro,tradicional,274
+Florianópolis,Prestígio,tradicional,300
+São Paulo,Diamente Negro,especial,515
+Curitiba,Ouro Branco,especial,30
+Salvador,Chokito,tradicional,335
+Curitiba,Chokito,especial,789
+Florianópolis,Diamente Negro,especial,255
+Florianópolis,Chokito,especial,483
+São Paulo,Prestígio,tradicional,250
+São Paulo,Ouro Branco,especial,54
+Curitiba,Diamente Negro,especial,391
+São Paulo,Chokito,tradicional,273
+Florianópolis,Ouro Branco,especial,786
+Curitiba,Ouro Branco,tradicional,558
+Curitiba,Chokito,especial,395
+Curitiba,Diamente Negro,tradicional,201
+São Paulo,Prestígio,especial,897
+Porto Alegre,Chokito,tradicional,564
+Florianópolis,Prestígio,tradicional,185
+Curitiba,Ouro Branco,tradicional,326
+São Paulo,Diamente Negro,especial,474
+Porto Alegre,Chokito,especial,274
+Curitiba,Diamente Negro,tradicional,249
+São Paulo,Ouro Branco,tradicional,333
+Florianópolis,Diamente Negro,especial,244
+Curitiba,Prestígio,especial,168
+Salvador,Ouro Branco,tradicional,274
+São Paulo,Diamente Negro,tradicional,300
+Florianópolis,Prestígio,tradicional,515
+Curitiba,Ouro Branco,especial,333
+Porto Alegre,Prestígio,especial,335
+São Paulo,Diamente Negro,tradicional,481
+Curitiba,Prestígio,especial,462
+Florianópolis,Ouro Branco,especial,932
+Florianópolis,Diamente Negro,especial,155
+Porto Alegre,Diamente Negro,tradicional,296
+São Paulo,Prestígio,especial,168
+Porto Alegre,Ouro Branco,especial,274
+Curitiba,Prestígio,especial,300
+São Paulo,Prestígio,especial,515
+Florianópolis,Prestígio,tradicional,456
+Florianópolis,Prestígio,especial,335
+Curitiba,Prestígio,tradicional,326
+São Paulo,Diamente Negro,tradicional,39
+Curitiba,Chokito,tradicional,243
+Porto Alegre,Chokito,especial,178
+Curitiba,Prestígio,especial,294
+Curitiba,Ouro Branco,tradicional,250
+Florianópolis,Ouro Branco,tradicional,123
+Porto Alegre,Diamente Negro,especial,345
+São Paulo,Chokito,tradicional,101
+Porto Alegre,Diamente Negro,tradicional,65
+São Paulo,Ouro Branco,especial,57
+Curitiba,Diamente Negro,especial,270
+Porto Alegre,Prestígio,tradicional,234
+Curitiba,Ouro Branco,especial,90
+Porto Alegre,Diamente Negro,tradicional,101
+Porto Alegre,Prestígio,tradicional,65
+São Paulo,Ouro Branco,especial,45
+Curitiba,Prestígio,especial,270
+Porto Alegre,Diamente Negro,tradicional,234
+Curitiba,Chokito,especial,168
+Curitiba,Diamente Negro,especial,274
+Porto Alegre,Chokito,especial,300
+Porto Alegre,Prestígio,tradicional,515
+São Paulo,Ouro Branco,especial,44
+Porto Alegre,Diamente Negro,tradicional,335
+Curitiba,Chokito,tradicional,273
+São Paulo,Diamente Negro,especial,296
+Florianópolis,Prestígio,tradicional,168
+Curitiba,Ouro Branco,tradicional,274
+Porto Alegre,Prestígio,especial,300
+Porto Alegre,Prestígio,especial,678
+São Paulo,Prestígio,tradicional,67
+Curitiba,Prestígio,especial,335
+Curitiba,Prestígio,tradicional,326
+São Paulo,Diamente Negro,tradicional,753
+Curitiba,Chokito,especial,90
+Florianópolis,Diamente Negro,especial,255
+Porto Alegre,Chokito,especial,483
+São Paulo,Prestígio,tradicional,89
+Porto Alegre,Ouro Branco,especial,56
+Curitiba,Diamente Negro,especial,391
+São Paulo,Chokito,tradicional,273
+Curitiba,Chokito,especial,90
+Curitiba,Diamente Negro,especial,255
+Porto Alegre,Chokito,especial,483
+São Paulo,Prestígio,tradicional,168
+Porto Alegre,Ouro Branco,especial,274
+Porto Alegre,Diamente Negro,especial,300
+São Paulo,Chokito,tradicional,541
+Florianópolis,Ouro Branco,especial,211
+Curitiba,Ouro Branco,tradicional,335
+Curitiba,Chokito,especial,395
+Porto Alegre,Diamente Negro,especial,201
+Florianópolis,Prestígio,tradicional,185
+Curitiba,Ouro Branco,tradicional,326
+São Paulo,Diamente Negro,especial,474
+Porto Alegre,Chokito,tradicional,274
+Curitiba,Diamente Negro,tradicional,249
+São Paulo,Ouro Branco,especial,333
+Florianópolis,Diamente Negro,especial,244
+Curitiba,Prestígio,tradicional,93
+Curitiba,Prestígio,especial,462
+Curitiba,Ouro Branco,tradicional,516
+Florianópolis,Diamente Negro,tradicional,155
+São Paulo,Diamente Negro,especial,296
+Curitiba,Prestígio,especial,462
+Florianópolis,Ouro Branco,especial,780
+Florianópolis,Diamente Negro,especial,155
+São Paulo,Diamente Negro,tradicional,296
+Porto Alegre,Prestígio,especial,168
+Curitiba,Ouro Branco,especial,274
+Porto Alegre,Ouro Branco,especial,54
+Porto Alegre,Diamente Negro,especial,391
+São Paulo,Chokito,tradicional,273
+Curitiba,Diamente Negro,tradicional,296
+Porto Alegre,Prestígio,especial,168
+Curitiba,Ouro Branco,especial,274
+Porto Alegre,Prestígio,especial,300
+Porto Alegre,Prestígio,especial,515
+São Paulo,Diamente Negro,tradicional,357
+Curitiba,Prestígio,especial,335
+Curitiba,Diamente Negro,tradicional,326
+São Paulo,Chokito,tradicional,168
+Curitiba,Chokito,especial,274
+Curitiba,Diamente Negro,especial,300
+Porto Alegre,Chokito,especial,515
+Porto Alegre,Prestígio,especial,432
+São Paulo,Ouro Branco,especial,335
+Curitiba,Diamente Negro,tradicional,296
+Porto Alegre,Chokito,tradicional,168
+Curitiba,Ouro Branco,especial,274
+Porto Alegre,Ouro Branco,tradicional,300
+Porto Alegre,Chokito,tradicional,515
+São Paulo,Diamente Negro,especial,168
+Curitiba,Prestígio,especial,274
+Salvador,Ouro Branco,tradicional,300
+São Paulo,Diamente Negro,especial,432
+Florianópolis,Chokito,tradicional,66
+Curitiba,Diamente Negro,tradicional,335
+Porto Alegre,Ouro Branco,especial,54
+Porto Alegre,Diamente Negro,especial,391
+São Paulo,Chokito,tradicional,273
+Salvador,Diamente Negro,tradicional,296
+Porto Alegre,Prestígio,especial,168
+Curitiba,Ouro Branco,especial,274
+Porto Alegre,Prestígio,especial,300
+Porto Alegre,Prestígio,especial,567
+São Paulo,Diamente Negro,tradicional,455
+Salvador,Diamente Negro,especial,335
+Salvador,Prestígio,tradicional,326
+São Paulo,Diamente Negro,tradicional,456
+São Paulo,Chokito,especial,876
+Florianópolis,Diamente Negro,especial,255
+Salvador,Chokito,especial,350
